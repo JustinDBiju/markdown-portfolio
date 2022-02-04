@@ -1,3 +1,3 @@
-+ google
-+ apple
-+ meta
+- google
+- apple
+- meta
